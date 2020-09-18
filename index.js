@@ -10,3 +10,9 @@ function nowServing(katzDeliLine) {
     return `Currently serving ${katzDeliLine[0]}`; katzDeliLine.shift()
   }
 }
+
+function currentLine(katzDeliLine) {
+  if katzDeliLine=[] {
+    return `The line is currently empty.`
+  }
+}
