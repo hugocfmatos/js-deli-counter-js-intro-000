@@ -11,8 +11,9 @@ function nowServing(katzDeliLine) {
   }
 }
 
-function currentLine(katzDeliLine) {
+/*function currentLine(katzDeliLine) {
   if katzDeliLine=[] {
     return `The line is currently empty.`
   }
 }
+*/
