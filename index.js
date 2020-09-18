@@ -22,7 +22,7 @@ function currentLine(katzDeliLine) {
         text1 = text1 + ", "
       }
       }
-    
+
     return text1
   }
 }
